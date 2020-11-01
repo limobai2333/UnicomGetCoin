@@ -76,11 +76,6 @@ if __name__ == '__main__':
 
     timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    data = timestamp+sys.argv[1604200385174]
+    data = timestamp+sys.argv[1]
 
     user.sign(data)
-    
-    
-    
-    
-    
