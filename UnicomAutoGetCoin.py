@@ -79,3 +79,7 @@ if __name__ == '__main__':
     data = timestamp+sys.argv[1]
 
     user.sign(data)
+
+    
+    
+    
